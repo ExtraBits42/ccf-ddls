@@ -9,7 +9,7 @@ baseurl: ""
 
 twitter_username: None
 github_username: ExtraBits42
-github_repo: wwg-ccf-ddls
+github_repo: ccf-ddls
 
 markdown: kramdown
 

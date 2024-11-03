@@ -21,24 +21,24 @@
           <div class="col-xs-12 col-sm-8">
             <h1>
               {{ site.title }}<br>
-              <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+              <!-- <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ site.description }}{% if site.twitter_hashtag %} #{{ site.twitter_hashtag }}{% endif %}" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
               <iframe src="https://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
             </h1>
           </div>
           <div class="col-xs-12">
             {{ site.description }}
 
-            <p>To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+            <!-- <p>To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>. -->
             <p><b><i><u>Deadlines auto-display in the time zone of the viewer (unless specified).</u></i></b>
             <p>Last update: {{ site.time | date: "%-d %B %Y" }}
-            <div>
+            <!-- <div>
                 <p>
                     Download deadlines as iCal:
                     <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>;
                     <a href="{{site.baseurl}}/ical/deadlines-net.ical">networking</a>;
                     <a href="{{site.baseurl}}/ical/deadlines-measure.ical">measurement</a>
                 </p>
-            </div>
+            </div> -->
           </div>
         </div>
         <hr>
@@ -103,9 +103,9 @@
         {% endfor %}
         {% endfor %}
       </div>
-      <footer>
+      <!-- <footer>
         Maintained by <a href="https://andrewcchu.github.io/">Andrew Chu</a>. Adapted from <a href="https://clementfung.me/">Clement Fung</a>. Created by <a href="//twitter.com/{{ site.twitter_username }}">Bogdan Kulynych</a>.
-      </footer>
+      </footer> -->
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js" integrity="sha512-lteuRD+aUENrZPTXWFRPTBcDDxIGWe5uu0apPEn+3ZKYDwDaEErIK9rvR0QzUGmUQ55KFE2RqGTVoZsKctGMVw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

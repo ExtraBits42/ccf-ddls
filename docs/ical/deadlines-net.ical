@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://noise-lab.net/networking-deadlines
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mobicom2025-0@noise-lab.net/networking-deadlines
+SUMMARY:MobiCom 2025 Deadline (1 / 2)
+DESCRIPTION:Deadline for MobiCom 2025 Nov 2025 Hong Kong, China\nACM International Conference on Mobile Computing and Networking\n[CCF-A] Abstract Registration ddls: 2024-08-29 23:59 AoE; 2025-03-11 23:59 AoE;
+\nhttps://www.sigmobile.org/mobicom/2025/
+URL:https://www.sigmobile.org/mobicom/2025/
+LOCATION:Hong Kong, China
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20240905T235900
+DTEND;TZID=Etc/GMT+12:20240905T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:mobicom2025-1@noise-lab.net/networking-deadlines
+SUMMARY:MobiCom 2025 Deadline (2 / 2)
+DESCRIPTION:Deadline for MobiCom 2025 Nov 2025 Hong Kong, China\nACM International Conference on Mobile Computing and Networking\n[CCF-A] Abstract Registration ddls: 2024-08-29 23:59 AoE; 2025-03-11 23:59 AoE;
+\nhttps://www.sigmobile.org/mobicom/2025/
+URL:https://www.sigmobile.org/mobicom/2025/
+LOCATION:Hong Kong, China
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20250318T235900
+DTEND;TZID=Etc/GMT+12:20250318T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:mobisys2025-0@noise-lab.net/networking-deadlines
+SUMMARY:MobiSys 2025 Deadline
+DESCRIPTION:Deadline for MobiSys 2025 June 23 - 25 Anaheim, California, US\nACM International Conference on Mobile Systems, Applications, and Services\n[CCF-B] Abstract Registration ddls: 2024-12-02 23:59 AoE;
+\nhttps://www.sigmobile.org/mobisys/2025/
+URL:https://www.sigmobile.org/mobisys/2025/
+LOCATION:Anaheim, California, US
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20241209T235900
+DTEND;TZID=Etc/GMT+12:20241209T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:nsdi2025-0@noise-lab.net/networking-deadlines
+SUMMARY:NSDI 2025 Deadline
+DESCRIPTION:Deadline for NSDI 2025 April 28 - 30 Philadelphia, PA, USA\nSymposium on Network System Design and Implementation\n[CCF-A] 2025 seems done.
+\nhttps://www.usenix.org/conference/nsdi25
+URL:https://www.usenix.org/conference/nsdi25
+LOCATION:Philadelphia, PA, USA
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20240101T000000
+DTEND;TZID=Etc/GMT+12:20240101T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:sensys2025-0@noise-lab.net/networking-deadlines
+SUMMARY:SenSys 2025 Deadline
+DESCRIPTION:Deadline for SenSys 2025 May 6 - 9 Irvine, USA\nACM Conference on Embedded Networked Sensor Systems\n[CCF-B] Abstract Registration ddls: 2024-11-07 23:59 AoE;
+\nhttps://sensys.acm.org/2025/
+URL:https://sensys.acm.org/2025/
+LOCATION:Irvine, USA
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20241114T235900
+DTEND;TZID=Etc/GMT+12:20241114T235959
+END:VEVENT
+BEGIN:VEVENT
+UID:infocom2025-0@noise-lab.net/networking-deadlines
+SUMMARY:INFOCOM 2025 Deadline
+DESCRIPTION:Deadline for INFOCOM 2025 May 19 - 22 London, UK\nIEEE International Conference on Computer Communications\n[CCF-A] 2025 seems done.
+\nhttps://infocom2025.ieee-infocom.org/
+URL:https://infocom2025.ieee-infocom.org/
+LOCATION:London, UK
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20240101T000000
+DTEND;TZID=Etc/GMT+12:20240101T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:secon2025-0@noise-lab.net/networking-deadlines
+SUMMARY:SECON 2025 Deadline
+DESCRIPTION:Deadline for SECON 2025 March 19 - 21 Hall 2-5, KINTEX, Korea\nIEEE International Conference on Sensing, Communication, and Networking\n[CCF-B] 2025 seems done
+\nhttps://www.seconexpo.com/2025/eng/main.asp
+URL:https://www.seconexpo.com/2025/eng/main.asp
+LOCATION:Hall 2-5, KINTEX, Korea
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20240101T000000
+DTEND;TZID=Etc/GMT+12:20240101T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:ccs2025-0@noise-lab.net/networking-deadlines
+SUMMARY:CCS 2025 Deadline (1 / 2)
+DESCRIPTION:Deadline for CCS 2025 October 13 - 17 Taipei, Taiwan, China\nACM Conference on Computer and Communications Security\n[CCF-A]
+\nhttps://www.sigsac.org/ccs/CCS2025/call-for-papers/
+URL:https://www.sigsac.org/ccs/CCS2025/call-for-papers/
+LOCATION:Taipei, Taiwan, China
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20250109T000000
+DTEND;TZID=Etc/GMT+12:20250109T000059
+END:VEVENT
+BEGIN:VEVENT
+UID:ccs2025-1@noise-lab.net/networking-deadlines
+SUMMARY:CCS 2025 Deadline (2 / 2)
+DESCRIPTION:Deadline for CCS 2025 October 13 - 17 Taipei, Taiwan, China\nACM Conference on Computer and Communications Security\n[CCF-A]
+\nhttps://www.sigsac.org/ccs/CCS2025/call-for-papers/
+URL:https://www.sigsac.org/ccs/CCS2025/call-for-papers/
+LOCATION:Taipei, Taiwan, China
+CLASS:PUBLIC
+DTSTAMP:20241103T20131730635994Z
+DTSTART;TZID=Etc/GMT+12:20250414T000000
+DTEND;TZID=Etc/GMT+12:20250414T000059
+END:VEVENT
+END:VCALENDAR

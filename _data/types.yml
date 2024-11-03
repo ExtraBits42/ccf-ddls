@@ -1,0 +1,29 @@
+---
+# Domain
+- name: Networking
+  tag: NET
+- name: Mobile Computing
+  tag: MComputing
+- name: Wireless Sensing
+  tag: WSensing
+- name: Human Computer Interaction
+  tag: HCI
+- name: Ubiquitous Computing
+  tag: Ubicomp
+
+- name: Machine Learning System
+  tag: MLSys
+- name: System
+  tag: Sys
+- name: Computer Architecture
+  tag: CompArch
+
+- name: Artifical Intelligence
+  tag: AI
+
+- name: Security
+  tag: Sec
+- name: Computer Graphics
+  tag: CompGraph
+- name: Multi-Media
+  tag: MMedia

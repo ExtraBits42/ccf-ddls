@@ -1,0 +1,15 @@
+title: Wireless Networking Conference Deadlines
+description: Countdowns to conference (includings Networking, WirelessSensing, System, etc...) deadlines.
+author: Yachen Zhong (Ref from "Andrew Chu")
+
+domain: ""
+# baseurl: "https://noise-lab.net/networking-deadlines"
+# Use this baseurl for local testing with `jekyll serve`
+baseurl: ""
+
+twitter_username: None
+github_username: ExtraBits42
+github_repo: wwg-ccf-ddls
+
+markdown: kramdown
+

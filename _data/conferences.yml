@@ -1,0 +1,181 @@
+# By default, "timezone" is AoE
+# Deadline format: YYYY-MM-DD
+
+- name: MobiCom
+  year: 2025
+  description: ACM International Conference on Mobile Computing and Networking
+  link: https://www.sigmobile.org/mobicom/2025/
+  comment: |
+    [CCF-A] Abstract Registration ddls: 2024-08-29 23:59 AoE; 2025-03-11 23:59 AoE;
+  deadline:
+    - "2024-09-05 23:59"
+    - "2025-03-18 23:59"
+  date: "Nov 2025"
+  place: Hong Kong, China
+  tags: [MComputing, NET]
+
+- name: MobiSys
+  year: 2025
+  description: ACM International Conference on Mobile Systems, Applications, and Services
+  link: https://www.sigmobile.org/mobisys/2025/
+  comment: |
+    [CCF-B] Abstract Registration ddls: 2024-12-02 23:59 AoE;
+  deadline:
+    - "2024-12-09 23:59"
+  date: "June 23 - 25"
+  place: Anaheim, California, US
+  tags: [MComputing, NET]
+
+# TODO: NSDI 2025 已截止（？？？）
+- name: NSDI
+  year: 2025
+  description: Symposium on Network System Design and Implementation
+  link: https://www.usenix.org/conference/nsdi25
+  comment: |
+    [CCF-A] 2025 seems done.
+  deadline:
+    - "2024-01-01"
+  date: "April 28 - 30"
+  place: Philadelphia, PA, USA
+  tags: [NET]
+
+# TODO: UbiComp 2025 已截止（？？？）
+- name: UbiComp
+  year: 2025
+  description: ACM international joint conference on Pervasive and Ubiquitous Computing
+  link: https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/
+  comment: |
+    [CCF-A] 2025 seems done.
+  deadline:
+    - "2024-01-01"
+  date: "Oct 2025"
+  place: Aalto University, Espoo, Finland
+  tags: [HCI, Ubicomp]
+
+- name: SenSys
+  year: 2025
+  description: ACM Conference on Embedded Networked Sensor Systems
+  link: https://sensys.acm.org/2025/
+  comment: |
+    [CCF-B] Abstract Registration ddls: 2024-11-07 23:59 AoE;
+  deadline:
+    - "2024-11-14 23:59"
+  date: "May 6 - 9"
+  place: Irvine, USA
+  tags: [NET, WSensing]
+
+# TODO: INFOCOM 2025 已截止（？？？）
+- name: INFOCOM
+  year: 2025
+  description: IEEE International Conference on Computer Communications
+  link: https://infocom2025.ieee-infocom.org/
+  comment: |
+    [CCF-A] 2025 seems done.
+  deadline:
+    - "2024-01-01"
+  date: "May 19 - 22"
+  place: London, UK
+  tags: [NET]
+
+# TODO: SECON 2025 已截止（？？？）
+- name: SECON
+  year: 2025
+  description: IEEE International Conference on Sensing, Communication, and Networking
+  link: https://www.seconexpo.com/2025/eng/main.asp
+  comment: |
+    [CCF-B] 2025 seems done
+  deadline:
+    - "2024-01-01"
+  date: "March 19 - 21"
+  place: Hall 2-5, KINTEX, Korea
+  tags: [NET, WSensing]
+
+# TODO: SenSys, IPSN, IoTDI 已合并为一个会议 —— SenSys：https://ipsn.acm.org/2025/
+
+- name: ICDCS
+  year: 2025
+  description: IEEE International Conference on Distributed Computing Systems
+  link: https://icdcs2025.icdcs.org/
+  comment: |
+    [CCF-B] Abstract Registration ddls: 2024-12-04 AoE;
+  deadline:
+    - "2024-12-11"
+  date: "July 20 - 23"
+  place: Glasgow, Scotland, UK
+  tags: [Sys, CompArch]
+
+- name: AAAI
+  year: 2025
+  description: AAAI Conference on Artificial Intelligence 
+  link: https://aaai.org/conference/aaai/aaai-25/
+  comment: |
+    [CCF-A] 2025 seems done
+  deadline:
+    - "2024-01-01"
+  date: "February 25 - March 04"
+  place: Philadelphia, Pennsylvania, USA
+  tags: [AI]
+
+# TODO: AoE 时间 和 UTC-12 时间（？？？不确定的时间！！！）
+- name: IJCAI
+  year: 2025
+  description: International Joint Conference on Artificial Intelligence
+  link: https://2025.ijcai.org/
+  comment: |
+    [CCF-A] Abstract Registration ddls: 2025-01-16 AoE;
+  deadline:
+    - "2025-01-23 23:59"
+  date: "August 16 - 22"
+  place: Montreal, Quebec, Canada
+  tags: [AI]
+
+- name: CCS
+  year: 2025
+  description: ACM Conference on Computer and Communications Security
+  link: https://www.sigsac.org/ccs/CCS2025/call-for-papers/
+  comment: |
+    [CCF-A]
+  deadline:
+    - "2025-01-09"
+    - "2025-04-14"
+  date: "October 13 - 17"
+  place: Taipei, Taiwan, China
+  tags: [NET, Sec]
+
+# TODO: IWQoS 2025 未发现
+# - name: IWQoS
+#   year: 2025
+#   description: IEEE/ACM International Workshop on Quality of Service
+#   link: 
+#   comment:
+#   deadline:
+#   date:
+#   place:
+#   tags:
+
+# TODO: MobiHoc 2025 未发现
+# - name: MobiHoc
+#   year: 2025
+#   description: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
+#   link: https://www.sigmobile.org/mobihoc/2024/
+#   comment:
+#   deadline:
+#   date:
+#   place:
+#   tags:
+
+# TODO: ICASSP 2025 已截止（？？？）
+- name: ICASSP
+  year: 2025
+  description: IEEE International Conference on Acoustics, Speech and Signal Processing
+  link: https://2025.ieeeicassp.org/
+  comment: |
+    [CCF-B] 2025 seems done
+  deadline:
+    - "2024-01-01"
+  date: "April 06 - 11"
+  place: Hyderabad, India
+  tags: [CompGraph, MMedia]
+
+
+
